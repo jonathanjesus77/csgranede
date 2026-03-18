@@ -1,0 +1,397 @@
+[
+  {
+    "id": "mirage_smoke_b_apartments",
+    "map": "mirage",
+    "type": "smoke",
+    "name": "Smoke B Apartments",
+    "description": "Smoke essencial para fechar a janela do B Apps saindo do Spawn TR. Bloqueia a visão dos CTs da posição B Site.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "easy",
+    "tags": ["b site", "apartments", "janela", "default"],
+    "lineup": {
+      "description": "Fique no canto da parede na entrada do T Spawn, mirando para o topo do telhado do prédio Apps.",
+      "position": "Encosta no canto da parede esquerda ao sair do T Spawn, perto do corner do muro.",
+      "aim": "Mire no ângulo superior direito da calha/beiral do telhado do prédio B Apartments.",
+      "throw_type": "left_click",
+      "images": [
+        "/nades/mirage/smoke_b_apps_lineup1.jpg",
+        "/nades/mirage/smoke_b_apps_lineup2.jpg"
+      ]
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/mirage/smoke_b_apps.gif",
+        "thumbnail": "/nades/mirage/smoke_b_apps_thumb.jpg"
+      }
+    ],
+    "likes": 2847,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-15"
+  },
+  {
+    "id": "mirage_smoke_jungle",
+    "map": "mirage",
+    "type": "smoke",
+    "name": "Smoke Jungle (Van)",
+    "description": "Fecha o Jungle / Van no B Site. Fundamental para plant seguro no B. Permite jogar Van-side sem ser abusado pelo CT do Jungle.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "easy",
+    "tags": ["b site", "jungle", "van", "plant", "default"],
+    "lineup": {
+      "description": "Posicione-se no início da rua B (B Short), encostado na parede direita antes de entrar na área de boxes.",
+      "position": "Fique no box marrom/laranja na rua B, encostando no lado esquerdo do box médio.",
+      "aim": "Mire no ponto mais alto do telhado triangular do prédio de fundo do B Site (acima do Van).",
+      "throw_type": "left_click",
+      "images": [
+        "/nades/mirage/smoke_jungle_lineup1.jpg",
+        "/nades/mirage/smoke_jungle_lineup2.jpg"
+      ]
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/mirage/smoke_jungle.gif",
+        "thumbnail": "/nades/mirage/smoke_jungle_thumb.jpg"
+      }
+    ],
+    "likes": 2156,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-15"
+  },
+  {
+    "id": "mirage_smoke_connector",
+    "map": "mirage",
+    "type": "smoke",
+    "name": "Smoke Connector / Mid Window",
+    "description": "Fecha a Janela do Mid / Connector. Permite o CT do B Ramp ou T do Mid atravessar sem ser exposto ao sniper da Janela.",
+    "side": "both",
+    "tickrate": "all",
+    "difficulty": "medium",
+    "tags": ["mid", "janela", "window", "connector", "sniper"],
+    "lineup": {
+      "description": "Saindo do T Spawn em direção ao Mid, posicione-se antes da curva de entry do Mid. Alinhe com a marca específica na parede.",
+      "position": "Fique ao lado da parede esquerda no T Mid, logo após a esquina do muro, antes de expor ao Sniper's Nest.",
+      "aim": "Mire na ponta superior da moldura/janela visível acima do telhado do prédio de madeira, alinhando com o topo do poste.",
+      "throw_type": "jump_throw",
+      "images": [
+        "/nades/mirage/smoke_connector_lineup1.jpg",
+        "/nades/mirage/smoke_connector_lineup2.jpg"
+      ]
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/mirage/smoke_connector.gif",
+        "thumbnail": "/nades/mirage/smoke_connector_thumb.jpg"
+      }
+    ],
+    "likes": 3421,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-15"
+  },
+  {
+    "id": "mirage_smoke_ticket_booth",
+    "map": "mirage",
+    "type": "smoke",
+    "name": "Smoke Ticket Booth (A Site)",
+    "description": "Fecha o Ticket Booth / Bomb Site Entry no A. Indispensável para entrar no A Site pelo A Ramp sem ser pegado pelo CT encostado na bilheteria.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "easy",
+    "tags": ["a site", "ticket booth", "ramp", "entry", "default"],
+    "lineup": {
+      "description": "Posicione no T Spawn perto da parede esquerda, olhando para o A Site. Alinhe com o canto do teto do corredor.",
+      "position": "Fique no corner esquerdo do T Spawn, encostado na parede que dá para o corredor do A.",
+      "aim": "Mire na ponta do antena/poste que fica sobre o telhado acima do A Ramp, levemente para a direita.",
+      "throw_type": "left_click",
+      "images": [
+        "/nades/mirage/smoke_ticket_lineup1.jpg"
+      ]
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/mirage/smoke_ticket.gif",
+        "thumbnail": "/nades/mirage/smoke_ticket_thumb.jpg"
+      }
+    ],
+    "likes": 1893,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-16"
+  },
+  {
+    "id": "mirage_smoke_stairs",
+    "map": "mirage",
+    "type": "smoke",
+    "name": "Smoke CT Stairs (A Site)",
+    "description": "Fecha as escadas do CT no A Site. Bloqueia a rotação do CT emergindo pelas CT Stairs durante o plant ou execução no A.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "medium",
+    "tags": ["a site", "ct stairs", "stairs", "execute", "rotation"],
+    "lineup": {
+      "description": "Posicione-se no topo do A Ramp, encostado na parede direita após subir a rampa. Mire no ponto específico do telhado.",
+      "position": "No topo da A Ramp, 1 passo atrás da curva que dá para o A Site, encostado na parede da direita.",
+      "aim": "Mire na quina do telhado triangular do prédio à esquerda do A Site, onde a calha termina.",
+      "throw_type": "jump_throw",
+      "images": [
+        "/nades/mirage/smoke_stairs_lineup1.jpg",
+        "/nades/mirage/smoke_stairs_lineup2.jpg"
+      ]
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/mirage/smoke_stairs.gif",
+        "thumbnail": "/nades/mirage/smoke_stairs_thumb.jpg"
+      }
+    ],
+    "likes": 1654,
+    "verified": true,
+    "pro_usage": false,
+    "created_at": "2024-01-16"
+  },
+  {
+    "id": "mirage_flash_short_corner",
+    "map": "mirage",
+    "type": "flash",
+    "name": "Flash A Short (Pop Flash CT)",
+    "description": "Pop flash pelo corner do A Short que pega os CTs do A Site sem afetar o lançador. Perfeita para entry no A pelo Short.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "medium",
+    "tags": ["a site", "short", "pop flash", "entry", "ct"],
+    "lineup": {
+      "description": "Jogue encostado no corner esquerdo do A Short (pré-corner), arremesse o flash contra a parede para estourar no ângulo correto.",
+      "position": "No início do A Short, encostado na parede esquerda antes de dobrar para o A Site.",
+      "aim": "Mire na parte superior da parede à frente, fazendo o flash quicar e estourar na frente dos CTs.",
+      "throw_type": "right_click",
+      "images": [
+        "/nades/mirage/flash_short_lineup1.jpg"
+      ]
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/mirage/flash_short.gif",
+        "thumbnail": "/nades/mirage/flash_short_thumb.jpg"
+      }
+    ],
+    "likes": 2100,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-17"
+  },
+  {
+    "id": "mirage_molotov_b_short",
+    "map": "mirage",
+    "type": "molotov",
+    "name": "Molotov B Short (Default Plant)",
+    "description": "Molotov que cobre o default plant do B Site. Força os CTs a saírem da posição atrás do Bench/Van durante o defuse.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "easy",
+    "tags": ["b site", "plant", "defuse", "default", "bench"],
+    "lineup": {
+      "description": "Do B Short, arremesse o molotov por cima da parede em direção ao Bench area. Simples e efetivo.",
+      "position": "Na entrada do B Short, encostado à direita, em pé normal.",
+      "aim": "Mire na quina superior do topo da parede de tijolo que separa o Short do B Site.",
+      "throw_type": "left_click",
+      "images": [
+        "/nades/mirage/molotov_b_short_lineup1.jpg"
+      ]
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/mirage/molotov_b_short.gif",
+        "thumbnail": "/nades/mirage/molotov_b_short_thumb.jpg"
+      }
+    ],
+    "likes": 1432,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-17"
+  },
+  {
+    "id": "inferno_smoke_apts",
+    "map": "inferno",
+    "type": "smoke",
+    "name": "Smoke Apartments (Banana)",
+    "description": "Smoke fundamental para fechar a saída dos Apartments no B Site / Banana. Permite jogar o B sem ser abusado pelo CT dos Apts.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "easy",
+    "tags": ["b site", "banana", "apartments", "apts", "default"],
+    "lineup": {
+      "description": "Do início da Banana, posicione em frente ao muro e arremesse em direção à entrada dos Apartments.",
+      "position": "No início da Banana, encostado à parede esquerda, logo após a curva inicial.",
+      "aim": "Mire na ponta do telhado triangular visível acima da entrada dos Apartments.",
+      "throw_type": "left_click",
+      "images": []
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/inferno/smoke_apts.gif",
+        "thumbnail": "/nades/inferno/smoke_apts_thumb.jpg"
+      }
+    ],
+    "likes": 2234,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-18"
+  },
+  {
+    "id": "dust2_smoke_ct",
+    "map": "dust2",
+    "type": "smoke",
+    "name": "Smoke CT Spawn (Long A)",
+    "description": "Fecha o CT Spawn durante execução pelo Long A. Bloqueia a rotação imediata do CT e permite o plant seguro no A Site.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "hard",
+    "tags": ["a site", "long", "ct spawn", "execute", "rotation"],
+    "lineup": {
+      "description": "Do Long Doors, posicione-se no ponto específico alinhando com a moldura da janela. Requer jump throw preciso.",
+      "position": "No Long Doors, encostado à parede direita, alinhando o pé com a marca no chão.",
+      "aim": "Mire no ponto específico do telhado do CT Spawn, visível acima do A Site.",
+      "throw_type": "jump_throw",
+      "images": []
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/dust2/smoke_ct.gif",
+        "thumbnail": "/nades/dust2/smoke_ct_thumb.jpg"
+      }
+    ],
+    "likes": 4521,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-18"
+  },
+  {
+    "id": "nuke_smoke_heaven",
+    "map": "nuke",
+    "type": "smoke",
+    "name": "Smoke Heaven (Upper)",
+    "description": "Fecha o Heaven no Upper Nuke. Essencial para executar no A/Upper sem ser abusado pelo CT do Heaven.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "medium",
+    "tags": ["upper", "heaven", "execute", "sniper"],
+    "lineup": {
+      "description": "Do T Side (outside), posicione no ponto específico alinhando com a marca na parede exterior.",
+      "position": "Na área externa do Nuke (T Side Outside), perto da entrada do Ramp.",
+      "aim": "Mire na ponta superior da escada metálica externa que leva ao rooftop.",
+      "throw_type": "jump_throw",
+      "images": []
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/nuke/smoke_heaven.gif",
+        "thumbnail": "/nades/nuke/smoke_heaven_thumb.jpg"
+      }
+    ],
+    "likes": 1876,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-19"
+  },
+  {
+    "id": "ancient_smoke_mid",
+    "map": "ancient",
+    "type": "smoke",
+    "name": "Smoke Mid Control",
+    "description": "Fecha o Mid do Ancient, bloqueando a visão dos CTs e permitindo controle seguro do Mid para as TRs.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "easy",
+    "tags": ["mid", "control", "default"],
+    "lineup": {
+      "description": "Do T Spawn, arremesse em direção ao Mid alinhando com os elementos arquitetônicos do templo.",
+      "position": "No T Spawn, próximo à saída central, encostado na parede de pedra.",
+      "aim": "Mire na ponta da estátua/pilar central acima do portão do Mid.",
+      "throw_type": "left_click",
+      "images": []
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/ancient/smoke_mid.gif",
+        "thumbnail": "/nades/ancient/smoke_mid_thumb.jpg"
+      }
+    ],
+    "likes": 987,
+    "verified": true,
+    "pro_usage": false,
+    "created_at": "2024-01-20"
+  },
+  {
+    "id": "anubis_smoke_b_ct",
+    "map": "anubis",
+    "type": "smoke",
+    "name": "Smoke B CT Entry",
+    "description": "Fecha a entrada dos CTs no B Site de Anubis. Permite executar B sem ser flanqueado pela rotação dos CTs.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "medium",
+    "tags": ["b site", "ct", "entry", "execute"],
+    "lineup": {
+      "description": "Posicione no B Connector, alinhando com o pilar egípcio específico para o arremesso.",
+      "position": "No B Connector do Anubis, encostado no pilar à esquerda.",
+      "aim": "Mire no topo do obelisco/pilar decorativo visível acima do B Entry.",
+      "throw_type": "left_click",
+      "images": []
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/anubis/smoke_b_ct.gif",
+        "thumbnail": "/nades/anubis/smoke_b_ct_thumb.jpg"
+      }
+    ],
+    "likes": 756,
+    "verified": false,
+    "pro_usage": false,
+    "created_at": "2024-01-20"
+  },
+  {
+    "id": "vertigo_smoke_a_ramp",
+    "map": "vertigo",
+    "type": "smoke",
+    "name": "Smoke A Ramp (CT Peak)",
+    "description": "Fecha o peak do CT no topo da A Ramp de Vertigo. Indispensável para subir o A Ramp sem ser abusado pelo CT.",
+    "side": "TR",
+    "tickrate": "all",
+    "difficulty": "easy",
+    "tags": ["a site", "ramp", "ct peak", "entry"],
+    "lineup": {
+      "description": "Do início da A Ramp (T Side), arremesse a smoke em direção ao topo da rampa.",
+      "position": "Na base da A Ramp, encostado à parede esquerda.",
+      "aim": "Mire no canto superior das grades metálicas visíveis no topo da rampa.",
+      "throw_type": "left_click",
+      "images": []
+    },
+    "media": [
+      {
+        "type": "gif",
+        "url": "/nades/vertigo/smoke_a_ramp.gif",
+        "thumbnail": "/nades/vertigo/smoke_a_ramp_thumb.jpg"
+      }
+    ],
+    "likes": 1123,
+    "verified": true,
+    "pro_usage": true,
+    "created_at": "2024-01-21"
+  }
+]

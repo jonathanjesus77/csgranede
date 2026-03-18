@@ -3,8 +3,8 @@
     "id": "mirage",
     "name": "mirage",
     "display_name": "Mirage",
-    "image": "/maps/mirage.jpg",
-    "thumbnail": "/maps/mirage_thumb.jpg",
+    "image": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_mirage/screenshots/screenshot_01.jpg",
+    "thumbnail": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_mirage/screenshots/screenshot_01.jpg",
     "active_duty": true,
     "callouts_image": "/maps/mirage_callouts.jpg"
   },
@@ -12,8 +12,8 @@
     "id": "inferno",
     "name": "inferno",
     "display_name": "Inferno",
-    "image": "/maps/inferno.jpg",
-    "thumbnail": "/maps/inferno_thumb.jpg",
+    "image": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_inferno/screenshots/screenshot_01.jpg",
+    "thumbnail": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_inferno/screenshots/screenshot_01.jpg",
     "active_duty": true,
     "callouts_image": "/maps/inferno_callouts.jpg"
   },
@@ -21,8 +21,8 @@
     "id": "nuke",
     "name": "nuke",
     "display_name": "Nuke",
-    "image": "/maps/nuke.jpg",
-    "thumbnail": "/maps/nuke_thumb.jpg",
+    "image": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_nuke/screenshots/screenshot_01.jpg",
+    "thumbnail": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_nuke/screenshots/screenshot_01.jpg",
     "active_duty": true,
     "callouts_image": "/maps/nuke_callouts.jpg"
   },
@@ -30,8 +30,8 @@
     "id": "ancient",
     "name": "ancient",
     "display_name": "Ancient",
-    "image": "/maps/ancient.jpg",
-    "thumbnail": "/maps/ancient_thumb.jpg",
+    "image": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_ancient/screenshots/screenshot_01.jpg",
+    "thumbnail": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_ancient/screenshots/screenshot_01.jpg",
     "active_duty": true,
     "callouts_image": "/maps/ancient_callouts.jpg"
   },
@@ -39,8 +39,8 @@
     "id": "anubis",
     "name": "anubis",
     "display_name": "Anubis",
-    "image": "/maps/anubis.jpg",
-    "thumbnail": "/maps/anubis_thumb.jpg",
+    "image": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_anubis/screenshots/screenshot_01.jpg",
+    "thumbnail": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_anubis/screenshots/screenshot_01.jpg",
     "active_duty": true,
     "callouts_image": "/maps/anubis_callouts.jpg"
   },
@@ -48,8 +48,8 @@
     "id": "vertigo",
     "name": "vertigo",
     "display_name": "Vertigo",
-    "image": "/maps/vertigo.jpg",
-    "thumbnail": "/maps/vertigo_thumb.jpg",
+    "image": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_vertigo/screenshots/screenshot_01.jpg",
+    "thumbnail": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_vertigo/screenshots/screenshot_01.jpg",
     "active_duty": true,
     "callouts_image": "/maps/vertigo_callouts.jpg"
   },
@@ -57,8 +57,8 @@
     "id": "dust2",
     "name": "dust2",
     "display_name": "Dust 2",
-    "image": "/maps/dust2.jpg",
-    "thumbnail": "/maps/dust2_thumb.jpg",
+    "image": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_dust2/screenshots/screenshot_01.jpg",
+    "thumbnail": "https://cdn.fastly.steamstatic.com/apps/csgo/maps/de_dust2/screenshots/screenshot_01.jpg",
     "active_duty": true,
     "callouts_image": "/maps/dust2_callouts.jpg"
   }
